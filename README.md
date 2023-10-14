@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MIchael-Kelly7
-- 👀 I’m interested in Python, Data Analytics, and Data Science
-- 🌱 I’m currently learning Python, Data Analytics, Machine Learning, R, and Javascript
-- 💞️ I’m looking to collaborate on Data Analytics or Machine Learning Projects
+- 👋 Hi, I’m @MIchaelGame-Dev
+- 👀 I’m interested in Godot, Unreal Engine and Game Dev
+- 🌱 I’m currently learning Godot and Game Dev
+- 💞️ I’m looking to collaborate on game dev projects
 - 📫 How to reach me ...
 
 <!---
